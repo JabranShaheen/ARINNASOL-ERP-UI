@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace ARIS_ERP_UI
+namespace ARINNASOL_ERP_UI_WEB
 {
     public class Program
     {

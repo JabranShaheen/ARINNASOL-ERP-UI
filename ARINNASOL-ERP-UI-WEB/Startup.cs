@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace ARIS_ERP_UI
+namespace ARINNASOL_ERP_UI_WEB
 {
     public class Startup
     {
