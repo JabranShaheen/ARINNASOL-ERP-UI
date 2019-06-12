@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ARINNASOL_ERP_UI_WEB.Controllers
+namespace ARINNASOL_ERP_UI.Controllers
 {
     [Route("api/[controller]")]
     public class SampleDataController : Controller

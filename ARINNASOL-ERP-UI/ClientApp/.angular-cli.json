@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "ARINNASOL_ERP_UI_WEB"
+    "name": "ARINNASOL_ERP_UI"
   },
   "apps": [
     {
